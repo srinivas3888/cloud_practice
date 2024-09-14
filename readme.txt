@@ -1,0 +1,1 @@
+1. Start NodeJs-app's live-server using " npm start " at ' /backend '.
